@@ -1,3 +1,3 @@
 # Weather-App
 
-a simple weather application, enter a a zip code and the corresponding temperature will be displayed
+a simple weather application, enter a zip code and a corresponding temperature will be displayed
